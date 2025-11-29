@@ -65,22 +65,7 @@ I am a **Senior Integration Engineer** specializing in decoupling monolithic arc
 
 ---
 
-### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angrygabbar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angrygabbar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="160" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=angrygabbar&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117" alt="Wakatime Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/angrygabbar/angrygabbar/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
 
 <br>
 
