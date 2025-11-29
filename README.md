@@ -61,11 +61,11 @@ I am an experienced **Software Developer** with a specialized focus on **Enterpr
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angrygabbar&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=angrygabbar&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" height="150" alt="stats graph" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angrygabbar&layout=compact&theme=dark&hide_border=true&langs_count=6" height="150" alt="languages graph" />
 </div>
 
----
 <div align="center">
-  <sub>Let's connect and discuss distributed systems and middleware solutions.</sub>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angrygabbar&theme=dark&hide_border=true" alt="streak stats" />
 </div>
